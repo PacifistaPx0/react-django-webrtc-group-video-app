@@ -4,6 +4,8 @@
 
 ![screenshots](./readme_screenshots/screenshot17.png)
 
+(To run this project locally switch to 'dev' branch and goto to this [*README.md*](https://github.com/KyrinZ/react-django-webrtc-group-video-app/blob/dev/README.md) )
+
 ## About the app
 
 This is one of my early app that I build. The main idea about the app is pretty straight forward, its a group call app. People create public or private rooms to communicate with each other via video. The purpose of making this app was to learn React, Django REST Framework, Websocket and WebRTC. Have no idea what those are? Me neither when I first started, and you don't have to understand it to use this app.
